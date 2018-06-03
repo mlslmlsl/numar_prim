@@ -20,9 +20,6 @@
     <modules />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7.0b4 (D:\Python37\python.exe)" project-jdk-type="Python SDK" />
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="masterDetails">
     <states>
       <state key="ScopeChooserConfigurable.UI">
